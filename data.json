@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "name":"renu",
+    "email":"gmkrenuka534@gmail.com",
+    "mobile":"+91-1234567890"
+  },
+  "education":[{
+    "degree":"b.tech",
+    "institute":"pscmr",
+    "data":["2019-17"]
+  },
+  {
+  "degree": "inter",
+  "institute": "vj",
+  "data" : ["2015-14"]
+  },
+  {
+  "degree": "ssc",
+  "institute": "school",
+  "data" : ["2012-14" ]
+  }
+]
+}
