@@ -1,4 +1,14 @@
-a
+table{
+  width:90%;
+  }
+  td{
+    padding:1%;
+    }
+    tr:nth-child(even){
+      background:#ddd;
+    }
+    
+    a
 {
   text-decoration: none;
   }
@@ -55,7 +65,8 @@ h2{
     padding: 2%;
     margin: 2%;
   }
-  .renuka{
+
+      renuka{
   max-width: 100%;
 
     padding: 2%;

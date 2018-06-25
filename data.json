@@ -4,7 +4,10 @@
     "email":"gmkrenuka534@gmail.com",
     "mobile":"+91-1234567890"
   },
-  "education":[{
+  "career": {
+    "Info":"to pursue a challanging career and be a part of progressive organization that given a accept scope to enhance my knowledge and utilising my skill towards the growth of organization"
+  },
+  "education": [{
     "degree":"b.tech",
     "institute":"pscmr",
     "data":["2019-17"]
@@ -19,5 +22,33 @@
   "institute": "school",
   "data" : ["2012-14" ]
   }
+],
+"acheivements":[
+  {
+    "name":"Awarded as<b>1<sup></sup>prize </b>in <q> self-defence</q>"
+  },
+  {
+  "name":"Got <strong>2<sup>st</sup>prize</strong> for <q> PPT presentation </q>"
+}
+
+],
+"skills":[
+  {
+    "name":"programming language",
+    "data":["c", "java", "python", "c++"]
+  },
+
+    {
+      "name":"data bases",
+      "data":["mysql", "oracle"]
+    },
+    {
+      "name":"web technologies",
+      "data":["css", "HTML"]
+    },
+    {
+      "name":"libraries and framework",
+      "data":["jQuery", "codeIgniter"]
+    }
 ]
 }
